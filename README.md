@@ -1,4 +1,4 @@
-# Official Implementation of Uniform-PAC Optimistic Regularized Policy Gradient Primal-Dual (UOpt-RPGPD) [Experiments in Section 6]
+# Official Implementation of "A Policy Gradient Primal-Dual Algorithm for Constrained MDPs with Uniform PAC Guarantees" [Experiments in Section 6]
 
 This repository is the official implementation of UOpt-RPGPD algorithm.
 
@@ -10,7 +10,7 @@ This repository is the official implementation of UOpt-RPGPD algorithm.
 ## Requirements
 
 ```bash
-# make sure you are in UOpt-RPGPD/
+# make sure you are in Uniform-PAC-Primal-Dual-CMDP/
 poetry install
 ```
 
