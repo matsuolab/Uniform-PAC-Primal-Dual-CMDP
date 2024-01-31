@@ -1,6 +1,6 @@
-# Official Implementation of "A Policy Gradient Primal-Dual Algorithm for Constrained MDPs with Uniform PAC Guarantees" [Experiments in Section 6]
+# Official Implementations of "A Policy Gradient Primal-Dual Algorithm for Constrained MDPs with Uniform PAC Guarantees" [Experiments in Section 6]
 
-This repository is the official implementation of UOpt-RPGPD algorithm.
+This repository is the official implementation of the UOpt-RPGPD algorithm.
 
 * You can see the implementation in [UOpt-RPGPD-ablation.ipynb](UOpt-RPGPD-ablation.ipynb).
 
